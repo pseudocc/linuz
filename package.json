@@ -1,0 +1,28 @@
+{
+  "name": "vanix",
+  "version": "0.1.0",
+  "description": "real light weight framework for the real geeks.",
+  "main": "x.js",
+  "type": "module",
+  "types": "x.d.ts",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pseudocc/vanix.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Atlas Yu <atlas.yu@canonical.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pseudocc/vanix/issues"
+  },
+  "homepage": "https://github.com/pseudocc/vanix#readme",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "jest-environment-jsdom": "^29.3.1"
+  }
+}
