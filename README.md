@@ -11,10 +11,10 @@ npm install pseudocc/vanix
 
 - Basic
 
-    Write very few HTML but reusable `Vanix.Arch` object will bring you to the
+    Write very few HTML but reusable `Vanix.Arch` objects will bring you to the
     next level of dry code rule.
 
-    Define properties with `get` and `set` which interact directly with HTMLElent's
+    Define properties with `get` and `set` which interact directly with HTMLElement's
     properties, then make it a `Vanix.Ctor`.
 
 - Advanced
