@@ -1,6 +1,6 @@
 # vanix
 
-Vanix is a light weight JavaScript frontend framework with zero dependency
+Vanix is a lightweight JavaScript frontend framework with zero dependency
 I use myself, which use a structured object to construct the element tree.
 
 ```bash
